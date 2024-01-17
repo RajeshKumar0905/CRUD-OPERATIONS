@@ -1,0 +1,9 @@
+body{
+    background-image: url(library-with-books.jpg);
+   color: white;
+   background-size: cover;
+   background-attachment: fixed;
+}
+.container {
+    color: white;
+}
